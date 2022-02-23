@@ -1,0 +1,2 @@
+Country,Region,"Happiness Rank","Happiness Score",Standard Error,Economy,Family,Class
+string,string,int,float,float,float,float,string

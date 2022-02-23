@@ -1,0 +1,1522 @@
+{
+    "data": [{
+            "Country": "Switzerland",
+            "Region": "Western Europe",
+            "Happiness Rank": "1",
+            "Economy": "1.39651",
+            "Family": "1.34951",
+            "Class": "A",
+            "adi": "noy"
+        },
+        {
+            "Country": "Iceland",
+            "Region": "Western Europe",
+            "Happiness Rank": "2",
+            "Happiness Score": "7.561",
+            "Standard Error": "0.04884",
+            "Economy": "1.30232",
+            "Family": "1.40223",
+            "Class": "A"
+        },
+        {
+            "Country": "Denmark",
+            "Region": "Western Europe",
+            "Happiness Rank": "3",
+            "Happiness Score": "7.527",
+            "Standard Error": "0.03328",
+            "Economy": "1.32548",
+            "Family": "1.36058",
+            "Class": "A"
+        },
+        {
+            "Country": "Norway",
+            "Region": "Western Europe",
+            "Happiness Rank": "4",
+            "Happiness Score": "7.522",
+            "Standard Error": "0.0388",
+            "Economy": "1.459",
+            "Family": "1.33095",
+            "Class": "A"
+        },
+        {
+            "Country": "Canada",
+            "Region": "North America",
+            "Happiness Rank": "5",
+            "Happiness Score": "7.427",
+            "Standard Error": "0.03553",
+            "Economy": "1.32629",
+            "Family": "1.32261",
+            "Class": "A"
+        },
+        {
+            "Country": "Finland",
+            "Region": "Western Europe",
+            "Happiness Rank": "6",
+            "Happiness Score": "7.406",
+            "Standard Error": "0.0314",
+            "Economy": "1.29025",
+            "Family": "1.31826",
+            "Class": "A"
+        },
+        {
+            "Region": "Western Europe",
+            "Happiness Rank": "7",
+            "Happiness Score": "7.378",
+            "Economy": "1.32944"
+        },
+        {
+            "Country": "Sweden",
+            "Region": "Western Europe",
+            "Happiness Rank": "8",
+            "Happiness Score": "7.364",
+            "Standard Error": "0.03157",
+            "Economy": "1.33171",
+            "Family": "1.28907",
+            "Class": "A",
+            "GDP": "37.937"
+        },
+        {
+            "Country": "New Zealand",
+            "Region": "Australia and New Zealand",
+            "Happiness Rank": "9",
+            "Happiness Score": "7.286",
+            "Standard Error": "0.03371",
+            "Economy": "1.25018",
+            "Family": "1.31967",
+            "Class": "A"
+        },
+        {
+            "Country": "Australia",
+            "Region": "Australia and New Zealand",
+            "Happiness Rank": "10",
+            "Happiness Score": "7.284",
+            "Standard Error": "0.04083",
+            "Economy": "1.33358",
+            "Family": "1.30923",
+            "Class": "A"
+        },
+        {
+            "Country": "Israel",
+            "Region": "Middle East and Northern Africa",
+            "Happiness Rank": "11",
+            "Happiness Score": "7.278",
+            "Standard Error": "0.0347",
+            "Economy": "1.22857",
+            "Family": "1.22393",
+            "Class": "B",
+            "GDP": "23.68"
+        },
+        {
+            "Country": "Costa Rica",
+            "Region": "Latin America and Caribbean",
+            "Happiness Rank": "12",
+            "Happiness Score": "7.226",
+            "Standard Error": "0.04454",
+            "Economy": "0.95578",
+            "Family": "1.23788",
+            "Class": "B"
+        },
+        {
+            "Country": "Austria",
+            "Region": "Western Europe",
+            "Happiness Rank": "13",
+            "Happiness Score": "7.2",
+            "Standard Error": "0.03751",
+            "Economy": "1.33723",
+            "Family": "1.29704",
+            "Class": "B",
+            "GDP": "77.562"
+        },
+        {
+            "Country": "Mexico",
+            "Region": "Latin America and Caribbean",
+            "Happiness Rank": "14",
+            "Happiness Score": "7.187",
+            "Standard Error": "0.04176",
+            "Economy": "1.02054",
+            "Family": "0.91451",
+            "Class": "B"
+        },
+        {
+            "Country": "United States",
+            "Region": "North America",
+            "Happiness Score": "7.119",
+            "Economy": "1.39451",
+            "Class": "B"
+        },
+        {
+            "Country": "Brazil",
+            "Region": "Latin America and Caribbean",
+            "Happiness Rank": "16",
+            "Happiness Score": "6.983",
+            "Standard Error": "0.04076",
+            "Economy": "0.98124",
+            "Family": "1.23287",
+            "Class": "B"
+        },
+        {
+            "Country": "Luxembourg",
+            "Region": "Western Europe",
+            "Happiness Rank": "17",
+            "Happiness Score": "6.946",
+            "Standard Error": "0.03499",
+            "Economy": "1.56391",
+            "Family": "1.21963",
+            "Class": "B"
+        },
+        {
+            "Country": "Ireland",
+            "Region": "Western Europe",
+            "Happiness Rank": "18",
+            "Happiness Score": "6.94",
+            "Standard Error": "0.03676",
+            "Economy": "1.33596",
+            "Family": "1.36948",
+            "Class": "B"
+        },
+        {
+            "Country": "Belgium",
+            "Region": "Western Europe",
+            "Happiness Rank": "19",
+            "Happiness Score": "6.937",
+            "Standard Error": "0.03595",
+            "Economy": "1.30782",
+            "Family": "1.28566",
+            "Class": "B"
+        },
+        {
+            "Country": "United Arab Emirates",
+            "Region": "Middle East and Northern Africa",
+            "Happiness Rank": "20",
+            "Happiness Score": "6.901",
+            "Standard Error": "0.03729",
+            "Economy": "1.42727",
+            "Family": "1.12575",
+            "Class": "B"
+        },
+        {
+            "Country": "United Kingdom",
+            "Region": "Western Europe",
+            "Happiness Rank": "21",
+            "Happiness Score": "6.867",
+            "Standard Error": "0.01866",
+            "Economy": "1.26637",
+            "Family": "1.28548",
+            "Class": "C"
+        },
+        {
+            "Country": "Oman",
+            "Region": "Middle East and Northern Africa",
+            "Happiness Rank": "22",
+            "Happiness Score": "6.853",
+            "Standard Error": "0.05335",
+            "Economy": "1.36011",
+            "Family": "1.08182",
+            "Class": "C"
+        },
+        {
+            "Country": "Venezuela",
+            "Region": "Latin America and Caribbean",
+            "Happiness Rank": "23",
+            "Happiness Score": "6.81",
+            "Standard Error": "0.06476",
+            "Economy": "1.04424",
+            "Family": "1.25596",
+            "Class": "C"
+        },
+        {
+            "Country": "Singapore",
+            "Region": "Southeastern Asia",
+            "Happiness Rank": "24",
+            "Happiness Score": "6.798",
+            "Standard Error": "0.0378",
+            "Economy": "1.52186",
+            "Family": "1.02",
+            "Class": "C"
+        },
+        {
+            "Country": "Panama",
+            "Region": "Latin America and Caribbean",
+            "Happiness Rank": "25",
+            "Happiness Score": "6.786",
+            "Standard Error": "0.0491",
+            "Economy": "1.06353",
+            "Family": "1.1985",
+            "Class": "C"
+        },
+        {
+            "Country": "Germany",
+            "Region": "Western Europe",
+            "Happiness Rank": "26",
+            "Happiness Score": "6.75",
+            "Standard Error": "0.01848",
+            "Economy": "1.32792",
+            "Family": "1.29937",
+            "Class": "C",
+            "GDP": "63.149"
+        },
+        {
+            "Country": "Chile",
+            "Region": "Latin America and Caribbean",
+            "Happiness Rank": "27",
+            "Standard Error": "0.058",
+            "Family": "1.12447",
+            "Class": "C"
+        },
+        {
+            "Country": "Qatar",
+            "Happiness Rank": "28",
+            "Happiness Score": "6.611",
+            "Economy": "1.69042",
+            "Family": "1.0786",
+            "Class": "D"
+        },
+        {
+            "Country": "France",
+            "Region": "Western Europe",
+            "Happiness Rank": "29",
+            "Happiness Score": "6.575",
+            "Standard Error": "0.03512",
+            "Economy": "1.27778",
+            "Family": "1.26038",
+            "Class": "D",
+            "GDP": "5.643"
+        },
+        {
+            "Country": "Argentina",
+            "Region": "Latin America and Caribbean",
+            "Happiness Rank": "30",
+            "Happiness Score": "6.574",
+            "Standard Error": "0.04612",
+            "Economy": "1.05351",
+            "Family": "1.24823",
+            "Class": "D"
+        },
+        {
+            "Country": "Czech Republic",
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "31",
+            "Happiness Score": "6.505",
+            "Standard Error": "0.04168",
+            "Economy": "1.17898",
+            "Family": "1.20643",
+            "Class": "D"
+        },
+        {
+            "Country": "Uruguay",
+            "Region": "Latin America and Caribbean",
+            "Happiness Rank": "32",
+            "Happiness Score": "6.485",
+            "Standard Error": "0.04539",
+            "Economy": "1.06166",
+            "Family": "1.2089",
+            "Class": "D"
+        },
+        {
+            "Country": "Colombia",
+            "Region": "Latin America and Caribbean",
+            "Happiness Rank": "33",
+            "Happiness Score": "6.477",
+            "Standard Error": "0.05051",
+            "Economy": "0.91861",
+            "Family": "1.24018",
+            "Class": "D"
+        },
+        {
+            "Country": "Thailand",
+            "Region": "Southeastern Asia",
+            "Happiness Rank": "34",
+            "Happiness Score": "6.455",
+            "Standard Error": "0.03557",
+            "Economy": "0.9669",
+            "Family": "1.26504",
+            "Class": "D"
+        },
+        {
+            "Country": "Saudi Arabia",
+            "Region": "Middle East and Northern Africa",
+            "Happiness Rank": "35",
+            "Happiness Score": "6.411",
+            "Standard Error": "0.04633",
+            "Economy": "1.39541",
+            "Family": "1.08393",
+            "Class": "D"
+        },
+        {
+            "Country": "Spain",
+            "Region": "Western Europe",
+            "Happiness Rank": "36",
+            "Happiness Score": "6.329",
+            "Standard Error": "0.03468",
+            "Economy": "1.23011",
+            "Family": "1.31379",
+            "Class": "E",
+            "GDP": "2.047"
+        },
+        {
+            "Country": "Malta",
+            "Happiness Rank": "37",
+            "Happiness Score": "6.302",
+            "Standard Error": "0.04206",
+            "Economy": "1.2074",
+            "Family": "1.30203"
+        },
+        {
+            "Country": "Taiwan",
+            "Region": "Eastern Asia",
+            "Happiness Rank": "38",
+            "Happiness Score": "6.298",
+            "Family": "1.07617",
+            "Class": "E"
+        },
+        {
+            "Country": "Kuwait",
+            "Region": "Middle East and Northern Africa",
+            "Happiness Rank": "39",
+            "Happiness Score": "6.295",
+            "Standard Error": "0.04456",
+            "Economy": "1.55422",
+            "Family": "1.16594",
+            "Class": "E"
+        },
+        {
+            "Country": "Suriname",
+            "Region": "Latin America and Caribbean",
+            "Happiness Rank": "40",
+            "Happiness Score": "6.269",
+            "Standard Error": "0.09811",
+            "Economy": "0.99534",
+            "Family": "0.972",
+            "Class": "E"
+        },
+        {
+            "Country": "Trinidad and Tobago",
+            "Region": "Latin America and Caribbean",
+            "Happiness Rank": "41",
+            "Happiness Score": "6.168",
+            "Standard Error": "0.10895",
+            "Economy": "1.21183",
+            "Family": "1.18354",
+            "Class": "E"
+        },
+        {
+            "Country": "El Salvador",
+            "Region": "Latin America and Caribbean",
+            "Happiness Rank": "42",
+            "Happiness Score": "6.13",
+            "Standard Error": "0.05618",
+            "Economy": "0.76454",
+            "Family": "1.02507",
+            "Class": "E"
+        },
+        {
+            "Happiness Rank": "43",
+            "Standard Error": "0.05224",
+            "Economy": "0.74553",
+            "Family": "1.04356",
+            "Class": "E"
+        },
+        {
+            "Country": "Uzbekistan",
+            "Region": "Central and Eastern Europe",
+            "Happiness Score": "6.003",
+            "Standard Error": "0.04361",
+            "Economy": "0.63244",
+            "Family": "1.34043",
+            "Class": "F"
+        },
+        {
+            "Country": "Slovakia",
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "45",
+            "Happiness Score": "5.995",
+            "Standard Error": "0.04267",
+            "Economy": "1.16891",
+            "Family": "1.26999",
+            "Class": "F"
+        },
+        {
+            "Country": "Japan",
+            "Region": "Eastern Asia",
+            "Happiness Rank": "46",
+            "Happiness Score": "5.987",
+            "Standard Error": "0.03581",
+            "Economy": "1.27074",
+            "Family": "1.25712",
+            "Class": "F"
+        },
+        {
+            "Country": "South Korea",
+            "Region": "Eastern Asia",
+            "Happiness Rank": "47",
+            "Happiness Score": "5.984",
+            "Standard Error": "0.04098",
+            "Economy": "1.24461",
+            "Family": "0.95774",
+            "Class": "F"
+        },
+        {
+            "Country": "Ecuador",
+            "Region": "Latin America and Caribbean",
+            "Happiness Rank": "48",
+            "Happiness Score": "5.975",
+            "Standard Error": "0.04528",
+            "Economy": "0.86402",
+            "Family": "0.99903",
+            "Class": "F"
+        },
+        {
+            "Country": "Bahrain",
+            "Region": "Middle East and Northern Africa",
+            "Happiness Rank": "49",
+            "Happiness Score": "5.96",
+            "Standard Error": "0.05412",
+            "Economy": "1.32376",
+            "Family": "1.21624",
+            "Class": "F"
+        },
+        {
+            "Country": "Italy",
+            "Region": "Western Europe",
+            "Happiness Rank": "50",
+            "Happiness Score": "5.948",
+            "Standard Error": "0.03914",
+            "Economy": "1.25114",
+            "Family": "1.19777",
+            "Class": "G"
+        },
+        {
+            "Country": "Bolivia",
+            "Region": "Latin America and Caribbean",
+            "Happiness Rank": "51",
+            "Happiness Score": "5.89",
+            "Standard Error": "0.05642",
+            "Economy": "0.68133",
+            "Family": "0.97841",
+            "Class": "G"
+        },
+        {
+            "Country": "Moldova",
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "52",
+            "Happiness Score": "5.889",
+            "Standard Error": "0.03799",
+            "Economy": "0.59448",
+            "Family": "1.01528",
+            "Class": "G",
+            "GDP": "71.172"
+        },
+        {
+            "Country": "Paraguay",
+            "Region": "Latin America and Caribbean",
+            "Happiness Rank": "53",
+            "Happiness Score": "5.878",
+            "Standard Error": "0.04563",
+            "Economy": "0.75985",
+            "Family": "1.30477",
+            "Class": "G"
+        },
+        {
+            "Country": "Kazakhstan",
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "54",
+            "Happiness Score": "5.855",
+            "Standard Error": "0.04114",
+            "Economy": "1.12254",
+            "Family": "1.12241",
+            "Class": "G"
+        },
+        {
+            "Country": "Slovenia",
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "55",
+            "Happiness Score": "5.848",
+            "Standard Error": "0.04251",
+            "Economy": "1.18498",
+            "Family": "1.27385",
+            "Class": "G"
+        },
+        {
+            "Country": "Lithuania",
+            "Region": "Central and Eastern Europe",
+            "Happiness Score": "5.833",
+            "Standard Error": "0.03843",
+            "Family": "1.25745",
+            "Class": "G"
+        },
+        {
+            "Country": "Nicaragua",
+            "Region": "Latin America and Caribbean",
+            "Happiness Rank": "57",
+            "Happiness Score": "5.828",
+            "Standard Error": "0.05371",
+            "Economy": "0.59325",
+            "Family": "1.14184",
+            "Class": "G"
+        },
+        {
+            "Region": "Latin America and Caribbean",
+            "Happiness Rank": "58",
+            "Happiness Score": "5.824",
+            "Standard Error": "0.04615",
+            "Family": "0.97459",
+            "Class": "H"
+        },
+        {
+            "Country": "Belarus",
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "59",
+            "Happiness Score": "5.813",
+            "Standard Error": "0.03938",
+            "Economy": "1.03192",
+            "Family": "1.23289",
+            "Class": "H"
+        },
+        {
+            "Country": "Poland",
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "60",
+            "Happiness Score": "5.791",
+            "Standard Error": "0.04263",
+            "Economy": "1.12555",
+            "Family": "1.27948",
+            "Class": "H",
+            "GDP": "60.071"
+        },
+        {
+            "Country": "Malaysia",
+            "Region": "Southeastern Asia",
+            "Happiness Rank": "61",
+            "Happiness Score": "5.77",
+            "Standard Error": "0.0433",
+            "Economy": "1.12486",
+            "Family": "1.07023",
+            "Class": "H"
+        },
+        {
+            "Country": "Croatia",
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "62",
+            "Happiness Score": "5.759",
+            "Standard Error": "0.04394",
+            "Economy": "1.08254",
+            "Family": "0.79624",
+            "Class": "H"
+        },
+        {
+            "Happiness Score": "5.754",
+            "Standard Error": "0.07832",
+            "Economy": "1.13145",
+            "Class": "H"
+        },
+        {
+            "Country": "Russia",
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "64",
+            "Happiness Score": "5.716",
+            "Standard Error": "0.03135",
+            "Economy": "1.13764",
+            "Family": "1.23617",
+            "Class": "H",
+            "GDP": "87.035"
+        },
+        {
+            "Country": "Jamaica",
+            "Region": "Latin America and Caribbean",
+            "Happiness Rank": "65",
+            "Happiness Score": "5.709",
+            "Standard Error": "0.13693",
+            "Economy": "0.81038",
+            "Family": "1.15102",
+            "Class": "H"
+        },
+        {
+            "Country": "North Cyprus",
+            "Region": "Western Europe",
+            "Happiness Rank": "66",
+            "Happiness Score": "5.695",
+            "Standard Error": "0.05635",
+            "Economy": "1.20806",
+            "Family": "1.07008",
+            "Class": "H"
+        },
+        {
+            "Country": "Cyprus",
+            "Region": "Western Europe",
+            "Happiness Rank": "67",
+            "Happiness Score": "5.689",
+            "Standard Error": "0.0558",
+            "Economy": "1.20813",
+            "Family": "0.89318",
+            "Class": "H"
+        },
+        {
+            "Country": "Algeria",
+            "Region": "Middle East and Northern Africa",
+            "Happiness Rank": "68",
+            "Standard Error": "0.05099",
+            "Family": "1.07772"
+        },
+        {
+            "Country": "Kosovo",
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "69",
+            "Happiness Score": "5.589",
+            "Standard Error": "0.05018",
+            "Economy": "0.80148",
+            "Family": "0.81198",
+            "Class": "H"
+        },
+        {
+            "Country": "Turkmenistan",
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "70",
+            "Happiness Score": "5.548",
+            "Standard Error": "0.04175",
+            "Economy": "0.95847",
+            "Family": "1.22668",
+            "Class": "H"
+        },
+        {
+            "Country": "Mauritius",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "71",
+            "Happiness Score": "5.477",
+            "Standard Error": "0.07197",
+            "Economy": "1.00761",
+            "Class": "H"
+        },
+        {
+            "Country": "Hong Kong",
+            "Region": "Eastern Asia",
+            "Happiness Score": "5.474",
+            "Family": "1.05818",
+            "Class": "H"
+        },
+        {
+            "Country": "Estonia",
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "73",
+            "Happiness Score": "5.429",
+            "Standard Error": "0.04013",
+            "Economy": "1.15174",
+            "Family": "1.22791",
+            "Class": "H"
+        },
+        {
+            "Country": "Indonesia",
+            "Region": "Southeastern Asia",
+            "Happiness Rank": "74",
+            "Happiness Score": "5.399",
+            "Standard Error": "0.02596",
+            "Economy": "0.82827",
+            "Family": "1.08708",
+            "Class": "H",
+            "GDP": "47.783"
+        },
+        {
+            "Region": "Southeastern Asia",
+            "Happiness Score": "5.36",
+            "Standard Error": "0.03107",
+            "Class": "H"
+        },
+        {
+            "Happiness Rank": "76",
+            "Economy": "1.06098",
+            "Family": "0.94632",
+            "Class": "I"
+        },
+        {
+            "Country": "Kyrgyzstan",
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "77",
+            "Happiness Score": "5.286",
+            "Standard Error": "0.03823",
+            "Economy": "0.47428",
+            "Family": "1.15115",
+            "Class": "I"
+        },
+        {
+            "Country": "Nigeria",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "78",
+            "Happiness Score": "5.268",
+            "Standard Error": "0.04192",
+            "Economy": "0.65435",
+            "Family": "0.90432",
+            "Class": "I"
+        },
+        {
+            "Country": "Bhutan",
+            "Region": "Southern Asia",
+            "Happiness Rank": "79",
+            "Happiness Score": "5.253",
+            "Standard Error": "0.03225",
+            "Economy": "0.77042",
+            "Family": "1.10395",
+            "Class": "I"
+        },
+        {
+            "Country": "Azerbaijan",
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "80",
+            "Happiness Score": "5.212",
+            "Standard Error": "0.03363",
+            "Economy": "1.02389",
+            "Family": "0.93793",
+            "Class": "I"
+        },
+        {
+            "Country": "Pakistan",
+            "Region": "Southern Asia",
+            "Happiness Rank": "81",
+            "Happiness Score": "5.194",
+            "Standard Error": "0.03726",
+            "Economy": "0.59543",
+            "Family": "0.41411",
+            "Class": "I"
+        },
+        {
+            "Country": "Jordan",
+            "Region": "Middle East and Northern Africa",
+            "Happiness Rank": "82",
+            "Happiness Score": "5.192",
+            "Standard Error": "0.04524",
+            "Economy": "0.90198",
+            "Family": "1.05392",
+            "Class": "I"
+        },
+        {
+            "Country": "Montenegro",
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "82",
+            "Happiness Score": "5.192",
+            "Standard Error": "0.05235",
+            "Economy": "0.97438",
+            "Family": "0.90557",
+            "Class": "J"
+        },
+        {
+            "Country": "China",
+            "Region": "Eastern Asia",
+            "Happiness Rank": "84",
+            "Standard Error": "0.02424",
+            "Economy": "0.89012",
+            "Family": "0.94675"
+        },
+        {
+            "Country": "Zambia",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "85",
+            "Happiness Score": "5.129",
+            "Standard Error": "0.06988",
+            "Economy": "0.47038",
+            "Family": "0.91612",
+            "Class": "J"
+        },
+        {
+            "Country": "Romania",
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "86",
+            "Happiness Score": "5.124",
+            "Standard Error": "0.06607",
+            "Economy": "1.04345",
+            "Family": "0.88588",
+            "Class": "J"
+        },
+        {
+            "Country": "Serbia",
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "87",
+            "Happiness Score": "5.123",
+            "Standard Error": "0.04864",
+            "Economy": "0.92053",
+            "Family": "1.00964",
+            "Class": "J"
+        },
+        {
+            "Country": "Portugal",
+            "Region": "Western Europe",
+            "Happiness Rank": "88",
+            "Happiness Score": "5.102",
+            "Standard Error": "0.04802",
+            "Economy": "1.15991",
+            "Family": "1.13935",
+            "Class": "J",
+            "GDP": "98.592"
+        },
+        {
+            "Country": "Latvia",
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "89",
+            "Happiness Score": "5.098",
+            "Standard Error": "0.0464",
+            "Economy": "1.11312",
+            "Family": "1.09562",
+            "Class": "J"
+        },
+        {
+            "Country": "Philippines",
+            "Region": "Southeastern Asia",
+            "Happiness Rank": "90",
+            "Happiness Score": "5.073",
+            "Standard Error": "0.04934",
+            "Economy": "0.70532",
+            "Family": "1.03516",
+            "Class": "K"
+        },
+        {
+            "Country": "Somaliland region",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Score": "5.057",
+            "Standard Error": "0.06161",
+            "Economy": "0.18847",
+            "Class": "K"
+        },
+        {
+            "Country": "Morocco",
+            "Region": "Middle East and Northern Africa",
+            "Happiness Rank": "92",
+            "Happiness Score": "5.013",
+            "Standard Error": "0.0342",
+            "Economy": "0.73479",
+            "Family": "0.64095",
+            "Class": "K"
+        },
+        {
+            "Country": "Macedonia",
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "93",
+            "Happiness Score": "5.007",
+            "Standard Error": "0.05376",
+            "Economy": "0.91851",
+            "Family": "1.00232",
+            "Class": "K"
+        },
+        {
+            "Country": "Mozambique",
+            "Happiness Rank": "94",
+            "Happiness Score": "4.971",
+            "Standard Error": "0.07896",
+            "Family": "1.02626",
+            "Class": "K"
+        },
+        {
+            "Country": "Albania",
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "95",
+            "Happiness Score": "4.959",
+            "Standard Error": "0.05013",
+            "Economy": "0.87867",
+            "Family": "0.80434",
+            "Class": "K"
+        },
+        {
+            "Country": "Bosnia and Herzegovina",
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "96",
+            "Happiness Score": "4.949",
+            "Standard Error": "0.06913",
+            "Economy": "0.83223",
+            "Family": "0.91916",
+            "Class": "K"
+        },
+        {
+            "Country": "Lesotho",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "97",
+            "Happiness Score": "4.898",
+            "Standard Error": "0.09438",
+            "Economy": "0.37545",
+            "Family": "1.04103",
+            "Class": "K"
+        },
+        {
+            "Country": "Dominican Republic",
+            "Region": "Latin America and Caribbean",
+            "Happiness Rank": "98",
+            "Happiness Score": "4.885",
+            "Standard Error": "0.07446",
+            "Economy": "0.89537",
+            "Family": "1.17202",
+            "Class": "K"
+        },
+        {
+            "Country": "Laos",
+            "Region": "Southeastern Asia",
+            "Happiness Rank": "99",
+            "Happiness Score": "4.876",
+            "Standard Error": "0.06698",
+            "Economy": "0.59066",
+            "Family": "0.73803",
+            "Class": "K"
+        },
+        {
+            "Country": "Mongolia",
+            "Region": "Eastern Asia",
+            "Happiness Rank": "100",
+            "Happiness Score": "4.874",
+            "Standard Error": "0.03313",
+            "Economy": "0.82819",
+            "Family": "1.3006",
+            "Class": "K"
+        },
+        {
+            "Country": "Swaziland",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "101",
+            "Happiness Score": "4.867",
+            "Standard Error": "0.08742",
+            "Economy": "0.71206",
+            "Family": "1.07284",
+            "Class": "K"
+        },
+        {
+            "Country": "Greece",
+            "Region": "Western Europe",
+            "Happiness Rank": "102",
+            "Happiness Score": "4.857",
+            "Standard Error": "0.05062",
+            "Economy": "1.15406",
+            "Family": "0.92933",
+            "Class": "K"
+        },
+        {
+            "Country": "Lebanon",
+            "Region": "Middle East and Northern Africa",
+            "Happiness Rank": "103",
+            "Happiness Score": "4.839",
+            "Standard Error": "0.04337",
+            "Economy": "1.02564",
+            "Family": "0.80001",
+            "Class": "K"
+        },
+        {
+            "Country": "Hungary",
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "104",
+            "Happiness Score": "4.8",
+            "Standard Error": "0.06107",
+            "Economy": "1.12094",
+            "Family": "1.20215",
+            "Class": "K"
+        },
+        {
+            "Country": "Honduras",
+            "Region": "Latin America and Caribbean",
+            "Happiness Rank": "105",
+            "Happiness Score": "4.788",
+            "Standard Error": "0.05648",
+            "Economy": "0.59532",
+            "Family": "0.95348",
+            "Class": "K"
+        },
+        {
+            "Country": "Tajikistan",
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "106",
+            "Happiness Score": "4.786",
+            "Standard Error": "0.03198",
+            "Economy": "0.39047",
+            "Family": "0.85563",
+            "Class": "K"
+        },
+        {
+            "Country": "Tunisia",
+            "Region": "Middle East and Northern Africa",
+            "Happiness Rank": "107",
+            "Happiness Score": "4.739",
+            "Standard Error": "0.03589",
+            "Economy": "0.88113",
+            "Family": "0.60429",
+            "Class": "K"
+        },
+        {
+            "Country": "Palestinian Territories",
+            "Region": "Middle East and Northern Africa",
+            "Happiness Rank": "108",
+            "Happiness Score": "4.715",
+            "Standard Error": "0.04394",
+            "Economy": "0.59867",
+            "Family": "0.92558",
+            "Class": "K",
+            "GDP": "0.202"
+        },
+        {
+            "Country": "Bangladesh",
+            "Region": "Southern Asia",
+            "Happiness Rank": "109",
+            "Happiness Score": "4.694",
+            "Standard Error": "0.03077",
+            "Economy": "0.39753",
+            "Family": "0.43106",
+            "Class": "K"
+        },
+        {
+            "Country": "Iran",
+            "Region": "Middle East and Northern Africa",
+            "Happiness Rank": "110",
+            "Happiness Score": "4.686",
+            "Standard Error": "0.04449",
+            "Economy": "1.0088",
+            "Family": "0.54447",
+            "Class": "L",
+            "GDP": "89.029"
+        },
+        {
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "111",
+            "Standard Error": "0.04412",
+            "Economy": "0.79907",
+            "Family": "1.20278",
+            "Class": "L"
+        },
+        {
+            "Country": "Iraq",
+            "Region": "Middle East and Northern Africa",
+            "Happiness Rank": "112",
+            "Happiness Score": "4.677",
+            "Standard Error": "0.05232",
+            "Economy": "0.98549",
+            "Family": "0.81889",
+            "Class": "L"
+        },
+        {
+            "Country": "South Africa",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "113",
+            "Happiness Score": "4.642",
+            "Standard Error": "0.04585",
+            "Economy": "0.92049",
+            "Family": "1.18468",
+            "Class": "L"
+        },
+        {
+            "Country": "Ghana",
+            "Happiness Score": "4.633",
+            "Standard Error": "0.04742",
+            "Family": "0.67954",
+            "Class": "L"
+        },
+        {
+            "Country": "Zimbabwe",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "115",
+            "Happiness Score": "4.61",
+            "Standard Error": "0.0429",
+            "Economy": "0.271",
+            "Family": "1.03276",
+            "Class": "L"
+        },
+        {
+            "Country": "Liberia",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "116",
+            "Happiness Score": "4.571",
+            "Standard Error": "0.11068",
+            "Economy": "0.0712",
+            "Family": "0.78968",
+            "Class": "L"
+        },
+        {
+            "Country": "India",
+            "Region": "Southern Asia",
+            "Happiness Rank": "117",
+            "Happiness Score": "4.565",
+            "Standard Error": "0.02043",
+            "Economy": "0.64499",
+            "Family": "0.38174",
+            "Class": "L"
+        },
+        {
+            "Country": "Sudan",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "118",
+            "Happiness Score": "4.55",
+            "Standard Error": "0.0674",
+            "Economy": "0.52107",
+            "Family": "1.01404",
+            "Class": "L"
+        },
+        {
+            "Country": "Haiti",
+            "Region": "Latin America and Caribbean",
+            "Happiness Rank": "119",
+            "Happiness Score": "4.518",
+            "Standard Error": "0.07331",
+            "Economy": "0.26673",
+            "Family": "0.74302",
+            "Class": "L"
+        },
+        {
+            "Country": "Congo (Kinshasa)",
+            "Happiness Rank": "120",
+            "Happiness Score": "4.517",
+            "Standard Error": "0.0368",
+            "Economy": "0",
+            "Family": "1.0012"
+        },
+        {
+            "Country": "Nepal",
+            "Region": "Southern Asia",
+            "Happiness Rank": "121",
+            "Happiness Score": "4.514",
+            "Standard Error": "0.03607",
+            "Economy": "0.35997",
+            "Family": "0.86449",
+            "Class": "M"
+        },
+        {
+            "Country": "Ethiopia",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "122",
+            "Happiness Score": "4.512",
+            "Standard Error": "0.0378",
+            "Economy": "0.19073",
+            "Family": "0.60406",
+            "Class": "M"
+        },
+        {
+            "Country": "Sierra Leone",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "123",
+            "Happiness Score": "4.507",
+            "Standard Error": "0.07068",
+            "Economy": "0.33024",
+            "Family": "0.95571",
+            "Class": "M"
+        },
+        {
+            "Country": "Mauritania",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "124",
+            "Standard Error": "0.03947",
+            "Economy": "0.45407",
+            "Family": "0.86908",
+            "Class": "M"
+        },
+        {
+            "Country": "Kenya",
+            "Happiness Rank": "125",
+            "Happiness Score": "4.419",
+            "Class": "M"
+        },
+        {
+            "Country": "Djibouti",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "126",
+            "Happiness Score": "4.369",
+            "Standard Error": "0.08096",
+            "Economy": "0.44025",
+            "Family": "0.59207",
+            "Class": "M"
+        },
+        {
+            "Country": "Armenia",
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "127",
+            "Happiness Score": "4.35",
+            "Standard Error": "0.04763",
+            "Economy": "0.76821",
+            "Family": "0.77711",
+            "Class": "M"
+        },
+        {
+            "Country": "Botswana",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "128",
+            "Happiness Score": "4.332",
+            "Standard Error": "0.04934",
+            "Economy": "0.99355",
+            "Family": "1.10464",
+            "Class": "M",
+            "GDP": "31.429"
+        },
+        {
+            "Country": "Myanmar",
+            "Happiness Rank": "129",
+            "Happiness Score": "4.307",
+            "Economy": "0.27108",
+            "Family": "0.70905",
+            "Class": "M"
+        },
+        {
+            "Country": "Georgia",
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "130",
+            "Happiness Score": "4.297",
+            "Standard Error": "0.04221",
+            "Economy": "0.7419",
+            "Family": "0.38562",
+            "Class": "N"
+        },
+        {
+            "Country": "Malawi",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "131",
+            "Happiness Score": "4.292",
+            "Economy": "0.01604",
+            "Family": "0.41134",
+            "Class": "N"
+        },
+        {
+            "Country": "Sri Lanka",
+            "Region": "Southern Asia",
+            "Happiness Rank": "132",
+            "Happiness Score": "4.271",
+            "Standard Error": "0.03751",
+            "Economy": "0.83524",
+            "Family": "1.01905",
+            "Class": "N"
+        },
+        {
+            "Country": "Cameroon",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "133",
+            "Happiness Score": "4.252",
+            "Standard Error": "0.04678",
+            "Economy": "0.4225",
+            "Family": "0.88767",
+            "Class": "N",
+            "GDP": "91.747"
+        },
+        {
+            "Country": "Bulgaria",
+            "Region": "Central and Eastern Europe",
+            "Happiness Rank": "134",
+            "Happiness Score": "4.218",
+            "Standard Error": "0.04828",
+            "Economy": "1.01216",
+            "Family": "1.10614",
+            "Class": "N"
+        },
+        {
+            "Country": "Egypt",
+            "Region": "Middle East and Northern Africa",
+            "Happiness Rank": "135",
+            "Happiness Score": "4.194",
+            "Standard Error": "0.0326",
+            "Economy": "0.8818",
+            "Family": "0.747",
+            "Class": "N"
+        },
+        {
+            "Country": "Yemen",
+            "Region": "Middle East and Northern Africa",
+            "Happiness Rank": "136",
+            "Happiness Score": "4.077",
+            "Standard Error": "0.04367",
+            "Economy": "0.54649",
+            "Family": "0.68093",
+            "Class": "N"
+        },
+        {
+            "Country": "Angola",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "137",
+            "Happiness Score": "4.033",
+            "Standard Error": "0.04758",
+            "Economy": "0.75778",
+            "Family": "0.8604",
+            "Class": "N"
+        },
+        {
+            "Country": "Mali",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "138",
+            "Happiness Score": "3.995",
+            "Standard Error": "0.05602",
+            "Economy": "0.26074",
+            "Family": "1.03526",
+            "Class": "N"
+        },
+        {
+            "Country": "Congo (Brazzaville)",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "139",
+            "Happiness Score": "3.989",
+            "Standard Error": "0.06682",
+            "Economy": "0.67866",
+            "Family": "0.6629",
+            "Class": "N"
+        },
+        {
+            "Country": "Comoros",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "140",
+            "Happiness Score": "3.956",
+            "Standard Error": "0.04797",
+            "Economy": "0.23906",
+            "Family": "0.79273",
+            "Class": "N"
+        },
+        {
+            "Country": "Uganda",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "141",
+            "Happiness Score": "3.931",
+            "Standard Error": "0.04317",
+            "Economy": "0.21102",
+            "Family": "1.13299",
+            "Class": "N"
+        },
+        {
+            "Country": "Senegal",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "142",
+            "Happiness Score": "3.904",
+            "Standard Error": "0.03608",
+            "Economy": "0.36498",
+            "Family": "0.97619",
+            "Class": "O"
+        },
+        {
+            "Region": "Sub-Saharan Africa",
+            "Happiness Score": "3.896",
+            "Standard Error": "0.04547",
+            "Economy": "1.06024",
+            "Family": "0.90528",
+            "Class": "O"
+        },
+        {
+            "Country": "Niger",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "144",
+            "Happiness Score": "3.845",
+            "Standard Error": "0.03602",
+            "Economy": "0.0694",
+            "Family": "0.77265",
+            "Class": "O"
+        },
+        {
+            "Country": "Cambodia",
+            "Region": "Southeastern Asia",
+            "Happiness Rank": "145",
+            "Happiness Score": "3.819",
+            "Standard Error": "0.05069",
+            "Economy": "0.46038",
+            "Family": "0.62736",
+            "Class": "O"
+        },
+        {
+            "Country": "Tanzania",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "146",
+            "Happiness Score": "3.781",
+            "Standard Error": "0.05061",
+            "Economy": "0.2852",
+            "Family": "1.00268",
+            "Class": "O"
+        },
+        {
+            "Country": "Madagascar",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "147",
+            "Happiness Score": "3.681",
+            "Standard Error": "0.03633",
+            "Economy": "0.20824",
+            "Family": "0.66801",
+            "Class": "P"
+        },
+        {
+            "Country": "Central African Republic",
+            "Happiness Rank": "148",
+            "Happiness Score": "3.678"
+        },
+        {
+            "Country": "Chad",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "149",
+            "Happiness Score": "3.667",
+            "Standard Error": "0.0383",
+            "Economy": "0.34193",
+            "Family": "0.76062",
+            "Class": "P"
+        },
+        {
+            "Country": "Guinea",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "150",
+            "Happiness Score": "3.656",
+            "Standard Error": "0.0359",
+            "Economy": "0.17417",
+            "Family": "0.46475",
+            "Class": "P"
+        },
+        {
+            "Country": "Ivory Coast",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "151",
+            "Happiness Score": "3.655",
+            "Standard Error": "0.05141",
+            "Economy": "0.46534",
+            "Family": "0.77115",
+            "Class": "P"
+        },
+        {
+            "Country": "Burkina Faso",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "152",
+            "Happiness Score": "3.587",
+            "Standard Error": "0.04324",
+            "Economy": "0.25812",
+            "Family": "0.85188",
+            "Class": "P"
+        },
+        {
+            "Country": "Afghanistan",
+            "Region": "Southern Asia",
+            "Happiness Rank": "153",
+            "Happiness Score": "3.575",
+            "Standard Error": "0.03084",
+            "Economy": "0.31982",
+            "Family": "0.30285",
+            "Class": "P"
+        },
+        {
+            "Country": "Rwanda",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "154",
+            "Happiness Score": "3.465",
+            "Standard Error": "0.03464",
+            "Economy": "0.22208",
+            "Family": "0.7737",
+            "Class": "Q"
+        },
+        {
+            "Country": "Benin",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "155",
+            "Happiness Score": "3.34",
+            "Standard Error": "0.03656",
+            "Economy": "0.28665",
+            "Family": "0.35386",
+            "Class": "Q"
+        },
+        {
+            "Country": "Syria",
+            "Region": "Middle East and Northern Africa",
+            "Happiness Rank": "156",
+            "Happiness Score": "3.006",
+            "Standard Error": "0.05015",
+            "Economy": "0.6632",
+            "Family": "0.47489",
+            "Class": "Q"
+        },
+        {
+            "Country": "Burundi",
+            "Region": "Sub-Saharan Africa",
+            "Happiness Rank": "157",
+            "Happiness Score": "2.905",
+            "Standard Error": "0.08658",
+            "Economy": "0.0153",
+            "Family": "0.41587",
+            "Class": "Q"
+        },
+        {
+            "Standard Error": "0.06727",
+            "Economy": "0.20868",
+            "Class": "Q"
+        }
+    ]
+}
